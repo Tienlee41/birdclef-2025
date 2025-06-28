@@ -1,0 +1,19 @@
+# System & general utilities
+os-sys  # (Python stdlib - không cần cài qua pip, chỉ ghi chú cho đầy đủ)
+gc
+random
+pathlib
+
+# Data processing
+numpy
+pandas
+scikit-learn
+
+# PyTorch ecosystem
+torch
+torchvision
+torchaudio
+tqdm
+
+# Model architecture & pre-trained models
+timm
